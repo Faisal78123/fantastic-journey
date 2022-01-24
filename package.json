@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Faisal78123/fantastic-journey/issues"
   },
+  "publishConfig": {
+   "@faisal78123:registry": "https://npm.pkg.github.com"
+ },
   "homepage": "https://github.com/Faisal78123/fantastic-journey#readme"
 }
